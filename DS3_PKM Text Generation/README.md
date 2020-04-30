@@ -1,0 +1,3 @@
+# PKM Title Generation and Topic Modelling
+
+PKM is a competition between universities across Indonesia by  doing research or making a product that has an impact for society. PKM is really have a lot of process, so is becoming a challenge for us to make a great paper. Based on that background, I would like to make a topic modelling on PKM title data, so we will know what kind of topic that a lot people doing it. Beside of that, I will try to make a text generator based on the same data so we could make a title that could win the competition.

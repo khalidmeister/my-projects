@@ -1,0 +1,8 @@
+Untuk setiap folder project, akan diberi 1 folder tersendiri. Project mencakup riset dan produk.
+Penamaan: [Bidang][No]_[Judul Project]
+Di dalam folder:
+	- Referensi
+		TextBook, Paper, Artikel, dll.
+	- Hasil Pengerjaan
+		
+	- README.md
